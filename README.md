@@ -16,9 +16,9 @@ I'm a Web Developer passionate about building clean, responsive, and user-friend
 ## 🛠️ Tech Stack
 
 * **Frontend:** HTML, CSS, JavaScript
-* **Frameworks/Libraries:** React, Next.js (or add your preferred stack)
-* **Backend:** Node.js, Express (update as needed)
-* **Database:** MongoDB / MySQL (update as needed)
+* **Frameworks/Libraries:** React, Next.js
+* **Backend:** Node.js, Express
+* **Database:** MongoDB
 * **Tools:** Git, GitHub, VS Code
 
 ---
