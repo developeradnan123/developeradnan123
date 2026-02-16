@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Adnan Alam 👋
 
-<!--
-**developeradnan123/developeradnan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Developer passionate about building clean, responsive, and user-friendly web applications. I enjoy turning ideas into functional, scalable, and efficient digital experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 💻 Web Developer
+* 🌐 Focused on modern web technologies
+* 🎯 Passionate about clean code and performance
+* 📚 Always learning and improving
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** HTML, CSS, JavaScript
+* **Frameworks/Libraries:** React, Next.js (or add your preferred stack)
+* **Backend:** Node.js, Express (update as needed)
+* **Database:** MongoDB / MySQL (update as needed)
+* **Tools:** Git, GitHub, VS Code
+
+---
+
+⭐️ Feel free to explore my repositories and connect with me!
